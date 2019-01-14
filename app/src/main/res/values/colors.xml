@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="foreColor1">#c7e7ec</color>
+    <color name="editText">#bcad58</color>
+    <color name="idealKilo">#85d7ec</color>
+    <color name="durumGenel">#e2d8ed</color>
+    <color name="durum_zayif">#ffff00</color>
+    <color name="durum_ideal">#00ff00</color>
+    <color name="durum_fazlakilolu">#ffa500</color>
+    <color name="durum_obez">#ff0000</color>
+</resources>

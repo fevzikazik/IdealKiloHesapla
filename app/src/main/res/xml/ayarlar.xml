@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <CheckBoxPreference
+        android:title="Bildirimleri Yönet"
+        android:key="bildirim"
+        android:summaryOn="Bildirimler Açık"
+        android:summaryOff="Bildirimler Kapalı" />
+
+    <CheckBoxPreference
+        android:title="Ses"
+        android:key="ses"
+        android:summaryOn="Ses Açık"
+        android:summaryOff="Ses Kapalı" />
+
+    <ListPreference
+        android:entries="@array/resim"
+        android:entryValues="@array/resim_pozisyon"
+        android:key="arkaplan"
+        android:title="Arkaplan"
+        android:summary="Arkaplan Resmini Seçin" />
+
+</PreferenceScreen>

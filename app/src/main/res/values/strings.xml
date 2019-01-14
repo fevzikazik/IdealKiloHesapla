@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Ideal Kilo Hesapla v2.0</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">İdeal Kilo Hesaplama Aracı</string>
+    <string name="nav_header_subtitle">Daha sağlıklı bir yaşam için...</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="kilo_tv">50 kg</string>
+    <string name="ideal_tv"> </string>
+    <string name="durum_tv"> </string>
+    <string name="yagsizagirlik_tv"> </string>
+    <string name="vya_tv"> </string>
+    <string name="vki_tv"> </string>
+    <string name="zayif">Zayıf</string>
+    <string name="ideal">İdeal</string>
+    <string name="fazlakilolu">Fazla kilolu</string>
+    <string name="obez1">I.derece Obez</string>
+    <string name="obez2">II.derece Obez</string>
+    <string name="obez3">III.d. Morbid Obez</string>
+    <string name="sagmenu_cikis">Çıkış Yap</string>
+    <string name="solmenu_hesap">İdeal Kilo Hesapla</string>
+    <string name="solmenu_kayitliolcumler">Kayıtlı Ölçümler</string>
+    <string name="solmenu_grafik">Grafik</string>
+    <string name="solmenu_ayarlar">Ayarlar</string>
+    <string name="oncehesapla">Lütfen Önce Hesaplama Yapınız!</string>
+    <string name="solmenu_sonolcumukaydet">Ölçümü Telefona Kaydet</string>
+    <string name="solmenu_paylas">Ölçümü Paylaş</string>
+    <string name="btnKaydet">Kaydet</string>
+
+
+    <string-array name="resim_pozisyon">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="resim">
+        <item>Varsayılan</item>
+        <item>Gradient</item>
+        <item>Katmanlar</item>
+        <item>Gökyüzü</item>
+        <item>Deniz</item>
+    </string-array>
+
+</resources>

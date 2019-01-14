@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_vkiHesap"
+            android:icon="@drawable/ic_calc"
+            android:checked="true"
+            android:title="@string/solmenu_hesap" />
+        <item
+            android:id="@+id/nav_tumOlcumler"
+            android:icon="@drawable/ic_tum_olcumler"
+            android:checked="false"
+            android:title="@string/solmenu_kayitliolcumler" />
+        <item
+            android:id="@+id/nav_grafikler"
+            android:icon="@drawable/ic_grafik"
+            android:checked="false"
+            android:title="@string/solmenu_grafik" />
+        <item
+            android:id="@+id/nav_ayarlar"
+            android:icon="@drawable/ic_ayarlar"
+            android:checked="false"
+            android:title="@string/solmenu_ayarlar" />
+    </group>
+
+    <item android:title="Ekstra">
+        <menu>
+            <item
+                android:id="@+id/nav_kaydet"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/solmenu_sonolcumukaydet" />
+            <item
+                android:id="@+id/nav_paylas"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/solmenu_paylas" />
+
+        </menu>
+    </item>
+
+</menu>
