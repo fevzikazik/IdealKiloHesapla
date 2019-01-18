@@ -2,11 +2,11 @@
 Java Dönem Projesi Android Studio Çalışmam
 
 
-![T3](https://lh3.google.com/u/0/d/1TcTg36kvC2zIoh1tm7uH9tu4ES5W1648=w1920-h938-iv2)
+![T3](https://lh5.googleusercontent.com/0fqpD9V2tCRQP9DUXFWGGRU_SQoLe7nUc-k-3snOflGNoNrnOeSwVwyNM7RnB3Hpxg0x-RxkIZZ4iBHyDyR3=w1920-h938-rw)
 
 ![T3](https://lh3.googleusercontent.com/kPmsptxTg0dEO3d8b0k0dXjvd1RlV1Qp9JiHjUAeRavhtoj29A5QtAONR_FCFdsj6IkBdFLI8I3hBknrgJmW=w1920-h938-rw)
 
-![T3](https://lh3.google.com/u/0/d/1NuCyqN33IxpyBNYcYFWzuUoO7Fmfwf60=w1920-h938-iv1)
+![T3](https://lh5.googleusercontent.com/rX7LbHezef47lVtdj_4VpvvTBEv0s2NPi7X1jAL1rOFElagbdH7rdUOsWgmkQCDpf0OSQ_1mzhmMFYCWiQQd=w1920-h938-rw)
 
 ![T3](https://lh5.googleusercontent.com/JZre75CsmQu-nFBzsBiD_ela8jxm1pCOLlLVEULOC5dCHHb8m-FCnOmnnFgc10YzfA9xPpuvgodABUOP54_2=w1920-h938-rw)
 
