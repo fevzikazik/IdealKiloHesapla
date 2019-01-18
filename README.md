@@ -4,7 +4,7 @@ Java Dönem Projesi Android Studio Çalışmam
 
 ![T3](https://lh3.google.com/u/0/d/1TcTg36kvC2zIoh1tm7uH9tu4ES5W1648=w1920-h938-iv2)
 
-![T3](https://lh3.google.com/u/0/d/1MRgnX0Sgv3gFCoM_0nLDXAMnwoZj6sba=w1920-h938-iv2)
+![T3](https://lh3.googleusercontent.com/kPmsptxTg0dEO3d8b0k0dXjvd1RlV1Qp9JiHjUAeRavhtoj29A5QtAONR_FCFdsj6IkBdFLI8I3hBknrgJmW=w1920-h938-rw)
 
 ![T3](https://lh3.google.com/u/0/d/1NuCyqN33IxpyBNYcYFWzuUoO7Fmfwf60=w1920-h938-iv1)
 
